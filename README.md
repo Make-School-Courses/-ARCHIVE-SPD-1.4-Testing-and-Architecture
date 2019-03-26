@@ -24,16 +24,13 @@ Class Sessions:  14 classes, 7 labs
 
 ## Learning Outcomes
 
-**[INSTRUCTOR NOTE: PLEASE LIST (5-8) LEARNING OUTCOMES]**
-
 Students by the end of the course will be able to ...
 
-1. Identify & Describe
-1. Explain
-1. Compare & Contrast
-1. Design & Implement
-1. Practice
-
+1. Compare and contrast software construction options and make informed decisions around which to pick
+1. Produce elegant pseudocode to quickly describe how to solve a problem
+1. Practice techniques to improve the quality and craftsmanship of their software
+1. Design and implement code refactors
+1. Apply debugging and testing best practices to more easily resolve bugs
 
 
 ## Schedule
