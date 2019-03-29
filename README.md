@@ -34,12 +34,7 @@ Students by the end of the course will be able to ...
 
 
 ## Schedule
----
-### **[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE APRIL 1]**
-If you teach **M/W** or **Tu/Th**, please pick from a template below and delete the other one
 
----
-### M/W Template **[PLEASE REMOVE THIS HEADER BEFORE APRIL 1]**
 **Course Dates:** Monday, April 1 – Wednesday, May 15, 2019 (7 weeks)
 
 **Class Times:** Monday and Wednesday at 3:30–5:20pm (14 class sessions)
@@ -61,28 +56,6 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 | 13 |  Monday, May 13                          | Final Class (presentations, etc) |
 | 14 |  Wednesday, May 15                       | Final Exams/Presentations |
 
-### Tu/Th Template **[PLEASE REMOVE THIS HEADER BEFORE APRIL 1]**
-**Course Dates:** Tuesday, April 2 – Thursday, May 16, 2019 (7 weeks)
-
-**Class Times:** Tuesday and Thursday at 3:30–5:20pm (14 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tuesday, April 2                        | [Lesson 1] |
-|  2 |  Thursday, April 4                       | [Lesson 2] |
-|  3 |  Tuesday, April 9                        | [Lesson 3] |
-|  4 |  Thursday, April 11                      | [Lesson 4] |
-|  5 |  Tuesday, April 16                       | [Lesson 5] |
-|  6 |  Thursday, April 18                      | [Lesson 6] |
-|  7 |  Tuesday, April 23                       | [Lesson 7] |
-|  8 |  Thursday, April 25                      | [Lesson 8] |
-|  9 |  Tuesday, April 30                       | [Lesson 9] |
-| 10 |  Thursday, May 2                         | [Lesson 10] |
-| 11 |  Tuesday, May 7                          | [Lesson 11] |  
-| 12 |  Thursday, May 9                         | [Lesson 12] |
-| 13 |  Tuesday, May 14                         | Final Class (presentations, etc) |
-| 14 |  Thursday, May 16                        | Final Exams/Presentations |
-
 [Lesson 1]: Lessons/Lesson1.md
 [Lesson 2]: Lessons/Lesson2.md
 [Lesson 3]: Lessons/Lesson3.md
@@ -96,20 +69,11 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 [Lesson 11]: Lessons/Lesson11.md
 [Lesson 12]: Lessons/Lesson12.md
 
-## Class Assignments [REMOVE HEADER IF YOU LIKE]
-- List (with links) of all course-level assignments (i.e. tutorials, challenge sets, contractor project, custom projects, etc)
-- Under each assignment link the rubric used to evaluate it or describe how it is evaluated.
-- Projects should be linked to a project page which has a description & requirements.
+## Class Assignments
 
-### Tutorials
-**[REWORD AS RELEVANT TO YOUR COURSE]** Tutorials are to help you get started in a topic.  They are graded on completion only.
+- Coming soon!
 
-- [Do Cool Stuff Tutorial]()
-
-### Projects
-
-- [Sample Project](Sample_Project.md)
-    -   [Sample Project Rubric](Sample_Rubric.md)
+### Project Policy
 
 **All projects will require a minimum of 10 commits, and must take place throughout the entirety of the course**
 
@@ -135,7 +99,6 @@ Through this requirement, we hope to encourage you to think about projects with 
 - If you have a disability that needs an accommodation such as extended time or a different format, please take advantage of our [accommodations program](make.sc/disability-policy).
 
 ## Evaluation
-**[MAKE SPECIFIC TO YOUR COURSE SO IT IS SUPER CLEAR]**
 To pass this course you must meet the following requirements:
 
 - Complete all required tutorials 
