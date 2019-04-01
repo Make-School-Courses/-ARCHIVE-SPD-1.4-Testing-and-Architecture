@@ -14,7 +14,7 @@
 
 ## Why You Should Know This (5 min)
 
-Choices made during the software construction process heavily affect your project and team.
+Your understanding of how to construct software **determines how good a programmer you are**.
 
 ## Learning Objectives (5 min)
 
@@ -77,6 +77,12 @@ A lot goes into building a software project. Here's some important non-construct
 Each of these activities affects the ultimate success of a project as much as construction! At least the success of any project that calls for more than one or two people and lasts longer than a few weeks.
 
 ### Why is Software Construction Important?
+
+Air traffic control. Medical imaging. The Mars rover. Twilio.
+
+What do all these things have in common? They rely on software!
+
+As engineers, improving our software quality and productivity is of utmost importance, even when flying solo. Nearly everything we experience today is a result of some kind of software! Construction is a large part --- the *central activity* --- in software development, and the product of software construction --- the *source code* --- is often the only complete and accurate description of the software.
 
 ### Choosing a Programming Language and Why it Matters
 
