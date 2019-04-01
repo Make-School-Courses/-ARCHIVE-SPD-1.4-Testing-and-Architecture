@@ -170,7 +170,7 @@ A program needs low-level integrity, too.
       1. Examples:
             1. Lyft
             2. Medium
-            3. *Use [stackshare.com](https://stackshare.com) to find more companies you admire to research!*
+            3. *Use [stackshare.io](https://stackshare.io) to find more companies you admire to research!*
 2. Compare and contrast the choices these teams made.
 
 ## Credits
