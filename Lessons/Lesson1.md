@@ -1,4 +1,4 @@
-# Welcome to Software Construction / Key Construction Decisions
+# Welcome to Software Construction: Key Decisions
 
 ## Minute-by-Minute
 
@@ -72,12 +72,16 @@ Engineering excellent software products means **striking the right balance** in 
 
 ## In Class Activity II
 
-### Discovery (Rest of Class)
+### Discover (30 min)
 
 1. Ask pairs to join into groups of four.
 1. Ask pairs to find and research a few development standards from various companies.
-1. Compare and contrast the choices these teams made.
+      1. Examples:
+            1. Lyft
+            2. Medium
+            3. *Use [stackshare.com](https://stackshare.com) to find more companies you admire to research!*
+2. Compare and contrast the choices these teams made.
 
-## Additional Resources
+## Additional Resources & Credits
 
 1. **Code Complete**: Chapters 1 & 4.
