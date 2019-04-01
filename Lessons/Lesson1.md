@@ -19,9 +19,8 @@ Your understanding of how to construct software **determines how good a programm
 ## Learning Objectives (5 min)
 
 1. Identify and describe the steps in formal software construction.
-2. Define
-3. Design
-4. Implement
+2. Define a convention and their practical uses.
+3. Discuss major construction practices.
 
 ## Initial Exercise (15 min)
 
@@ -137,7 +136,6 @@ A program needs low-level integrity, too.
 - [ ] Will programmers integration-test their code before they check it in?
 
 - [ ] Will programmers review or inspect each other’s code?
-
 
 ##### Tools
 
