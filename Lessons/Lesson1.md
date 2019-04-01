@@ -48,6 +48,34 @@ If you've worked on projects in an informal environment --- like hackathons or i
 
 Engineering excellent software products means **striking the right balance** in your workflow, and we'll explore that throughout the term.
 
+#### The Work in Real Life
+
+What does Software Construction look like in real life?
+
+* Verifying that the groundwork has been laid so that construction can proceed successfully
+* Determining how your code will be tested
+* Designing and writing classes and routines
+* Creating and naming variables and named constants
+* Selecting control structures and organizing blocks of statements
+* Unit testing, integration testing, and debugging your own code
+* Reviewing other team members' low-level designs and code and having them review yours
+* Polishing code by carefully formatting and commenting it
+* Integrating software components that were created separately
+* Tuning code to make it faster and use fewer resources
+
+#### That's Everything, Right?
+
+A lot goes into building a software project. Here's some important non-construction activities that engineers may participate in:
+
+* Management
+* Requirements development
+* Software architecture
+* User-interface design
+* System testing
+* Maintenance
+
+Each of these activities affects the ultimate success of a project as much as construction! At least the success of any project that calls for more than one or two people and lasts longer than a few weeks.
+
 ### Why is Software Construction Important?
 
 ### Choosing a Programming Language and Why it Matters
@@ -82,6 +110,6 @@ Engineering excellent software products means **striking the right balance** in 
             3. *Use [stackshare.com](https://stackshare.com) to find more companies you admire to research!*
 2. Compare and contrast the choices these teams made.
 
-## Additional Resources & Credits
+## Credits
 
 1. **Code Complete**: Chapters 1 & 4.
