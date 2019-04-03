@@ -64,7 +64,7 @@ Revealed after break!
 
  **Interacting with other programmers is required**. The best programmers you know gained their skills through the collaboration, pairing, and taking swift and thoughtful action upon feedback --- including yours truly!
 
-### Key Takeaway
+### Final Note
 
 What can we conclude from the information above? Is there a short, memorable takeaway that always works? I'm glad you asked!
 
