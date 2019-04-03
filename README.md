@@ -32,7 +32,6 @@ Students by the end of the course will be able to ...
 1. Design and implement code refactors.
 1. Apply debugging and testing best practices to more easily resolve bugs.
 
-
 ## Schedule
 
 **Course Dates:** Monday, April 1 – Wednesday, May 15, 2019 (7 weeks)<br>
@@ -40,8 +39,8 @@ Students by the end of the course will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Monday, April 1                         | [Construction / Key Decisions](Lessons/Lesson1.md) |
-|  2 |  Wednesday, April 3                      | [Pseudocode / Collaborative Construction](Lessons/Lesson2.md) |
+|  1 |  Monday, April 1                         | [Construction/Key Decisions](Lessons/Lesson1.md) |
+|  2 |  Wednesday, April 3                      | [Pseudocode/Collaborative Construction](Lessons/Lesson2.md) |
 |  3 |  Monday, April 8                         | [Lab: Pseudocode](Lessons/Lesson3.md) |
 |  4 |  Wednesday, April 10                     | [Software Quality Landscape](Lessons/Lesson4.md) |
 |  5 |  Monday, April 15                        | [Themes in Software Craftsmanship](Lessons/Lesson5.md) |
@@ -51,7 +50,7 @@ Students by the end of the course will be able to ...
 |  9 |  Monday, April 29                        | [Debugging/Refactoring](Lessons/Lesson9.md) |
 | 10 |  Wednesday, May 1                        | [Lab: Blog Post](Lessons/Lesson10.md) |
 | 11 |  Monday, May 6                           | [Ticketing](Lessons/Lesson11.md) |
-| 12 |  Wednesday, May 8                        | [Code-Tuning Strategies and Techniques](Lessons/Lesson12.md) |
+| 12 |  Wednesday, May 8                        | [Code-Tuning Strategies](Lessons/Lesson12.md) |
 | 13 |  Monday, May 13                          | Final Class: Review Session |
 | 14 |  Wednesday, May 15                       | Final Exam |
 
@@ -112,7 +111,6 @@ Failure to meet these requirements will result in a PIP (Participation Improveme
 [Accommodations for Students](https://make.sc/accommodations-for-students)<br>
 [Attendance Policy](https://make.sc/attendance-policy)
 [Diversity and Inclusion Policy](https://make.sc/diversity-and-inclusion-policy)<br>
-[Grading System](https://make.sc/grading-system)
-<br>
+[Grading System](https://make.sc/grading-system)<br>
 [Title IX Policy](https://make.sc/title-ix-policy)<br>
 [Program Learning Outcomes](https://make.sc/program-learning-outcomes)
