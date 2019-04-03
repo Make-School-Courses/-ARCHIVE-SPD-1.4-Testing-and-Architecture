@@ -1,6 +1,6 @@
 # Collaborative Construction / Pseudocode for Pros
 
-_Missed class or need to review? **View a [mind map](Resources/2-PseudocodeForPros.pdf) of today's main topics.**_
+_Missed class or need to review? **View a [mind map](https://make-school-courses.github.io/SPD-1.4-Testing-And-Architecture/Resources/2-PseudocodeForPros.pdf) of today's main topics.**_
 
 ### Table of Contents
 
@@ -86,7 +86,7 @@ _**COLLABORATION REDUCES BUGS**._
 
 > The most important single aspect of software development is to be clear about what you are trying to build. - Bjarne Stroustrup
 
-Use the [mind map](Resources/2-PseudocodeForPros.pdf) to summarize the steps in building classes and routines (another word for _functions_). Additionally, go over the PPP strategy outlined in the map.
+Use the [mind map](https://make-school-courses.github.io/SPD-1.4-Testing-And-Architecture/Resources/2-PseudocodeForPros.pdf) to summarize the steps in building classes and routines (another word for _functions_). Additionally, go over the PPP strategy outlined in the map.
 
 ## In Class Activity II (15 min)
 
