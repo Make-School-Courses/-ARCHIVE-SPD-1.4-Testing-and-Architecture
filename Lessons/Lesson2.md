@@ -8,8 +8,8 @@ _Missed class or need to review? **View a [mind map](Resources/2-PseudocodeForPr
 2. [Initial Exercise (15 min)](#initial-exercise-15-min)
 3. [TT I: Collaborative Development IRL (15 min)](#tt-i-collaborative-development-irl-15-min)
 4. [In Class Activity I (10 min)](#in-class-activity-i-10-min)
-5. [TT II: A Conclusion on Collaboration (10 min)](#tt-ii-a-conclusion-on-collaboration-10-min)
-6. [BREAK (10 min)](#break-10-min)
+5. [BREAK (10 min)](#break-10-min)
+6. [TT II: A Conclusion on Collaboration (10 min)](#tt-ii-a-conclusion-on-collaboration-10-min)
 7. [TT III: Pseudocode for Pros (15 min)](#tt-iii-pseudocode-for-pros-15-min)
 8. [In Class Activity II (15 min)](#in-class-activity-ii-15-min)
 
@@ -47,16 +47,26 @@ What's the common link? Write down your answer.
 
 _Pair programming. Extreme programming. Mentorship. Apprenticeship. Open source contributions. Hackathons. Networking events. Technical meetups._
 
+I will reveal your answer after break!
+
+## BREAK (10 min)
+
+## TT II: A Conclusion on Collaboration (10 min)
+
 ### Answer
+
+Revealed after break!
 
 <!--
 **These formal engineering techniques (and more) grant opportunities for fresh eyes to grace your codebase, and catching bugs and errors in your thinking that WILL surprise you.** Bugs even your tests won't catch! -->
 
 ### That Means...
 
+Revealed after break!
+
 <!-- **Interacting with other programmers is required**. The best programmers you know gained their skills through the collaboration, pairing, and taking swift and thoughtful action upon feedback --- including yours truly! -->
 
-## TT II: A Conclusion on Collaboration (10 min)
+### Key Takeaway
 
 What can we conclude from the information above? Is there a short, memorable takeaway that always works? I'm glad you asked!
 
@@ -71,9 +81,6 @@ _**COLLABORATION REDUCES BUGS**._
 * **Better code arises from** multiple sets of eyes seeing the code** and **multiple programmers working on the code**.
 * The **impact of someone leaving the project is lessened because multiple people are familiar** with each section of code.
 * **Defect** (bug-fixing) **cycles are shorter overall** because any of several programmers can potentially be assigned to fix bugs when they're available.
-
-
-## BREAK (10 min)
 
 ## TT III: Pseudocode for Pros (15 min)
 
