@@ -1,4 +1,4 @@
-- [Syllabus](README.md)
+- **[Syllabus](README.md)**
 - **Classes**
   - [Construction / Key Decisions](Lessons/Lesson1.md)
   - [Lesson 2](Lessons/Lesson2.md)
