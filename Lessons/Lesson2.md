@@ -16,8 +16,7 @@ _Missed class or need to review? **View a [mind map](https://make-school-courses
 ## Learning Objectives (5 min)
 
 1. Formally define the word _pseudocode_ and recognize it's role in solving  engineering problems.
-2. Identify and describe pseudocode's role in the _Software Development Life Cycle_.
-3. Implement proper _pseudocode_ that solves real-world problems.
+2. Identify the prime way to enhance developer productivity when constructing software.
 
 ## Initial Exercise (15 min)
 
