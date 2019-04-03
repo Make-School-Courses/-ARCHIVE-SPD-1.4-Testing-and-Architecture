@@ -4,7 +4,7 @@
 
 Describe your course here. A short elevator pitch for the course. This will be listed as the course description in the course catalog.
 
-### Why you should know this (optional)
+### Why You Should Know This
 
 Explain why students should care to learn the material presented in this class.
 
@@ -18,7 +18,7 @@ Units:  3 units <br>
 Delivery Method:  Residential <br>
 Class Sessions:  14 classes, 7 labs
 
-## Prerequisites:  
+## Prerequisites
 
 - [SPD 1.3](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project)
 
@@ -41,7 +41,7 @@ Students by the end of the course will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Monday, April 1                         | [Lesson 1] |
+|  1 |  Monday, April 1                         | [Construction / Key Decisions](Lessons/Lesson1.md) |
 |  2 |  Wednesday, April 3                      | [Lesson 2] |
 |  3 |  Monday, April 8                         | [Lesson 3] |
 |  4 |  Wednesday, April 10                     | [Lesson 4] |
@@ -51,23 +51,10 @@ Students by the end of the course will be able to ...
 |  8 |  Wednesday, April 24                     | [Lesson 8] |
 |  9 |  Monday, April 29                        | [Lesson 9] |
 | 10 |  Wednesday, May 1                        | [Lesson 10] |
-| 11 |  Monday, May 6                           | [Lesson 11] |  
+| 11 |  Monday, May 6                           | [Lesson 11] |
 | 12 |  Wednesday, May 8                        | [Lesson 12] |
 | 13 |  Monday, May 13                          | Final Class (presentations, etc) |
 | 14 |  Wednesday, May 15                       | Final Exams/Presentations |
-
-[Lesson 1]: Lessons/Lesson1.md
-[Lesson 2]: Lessons/Lesson2.md
-[Lesson 3]: Lessons/Lesson3.md
-[Lesson 4]: Lessons/Lesson4.md
-[Lesson 5]: Lessons/Lesson5.md
-[Lesson 6]: Lessons/Lesson6.md
-[Lesson 7]: Lessons/Lesson7.md
-[Lesson 8]: Lessons/Lesson8.md
-[Lesson 9]: Lessons/Lesson9.md
-[Lesson 10]: Lessons/Lesson10.md
-[Lesson 11]: Lessons/Lesson11.md
-[Lesson 12]: Lessons/Lesson12.md
 
 ## Class Assignments
 
@@ -79,7 +66,7 @@ Students by the end of the course will be able to ...
 
 - **Good Example:** 40+ commits throughout the length of the course, looking for a healthy spattering of commits each week (such as 3-5 per day).
 - **Bad Example:** 10 commits on one day during the course and no others. Students who do this will be at severe risk of not passing the class.
-- **Unacceptable Example:** 2 commits the day before a project is due. Students who do this should not expect to pass the class. 
+- **Unacceptable Example:** 2 commits the day before a project is due. Students who do this should not expect to pass the class.
 
 #### Why are we doing this?
 
@@ -93,35 +80,38 @@ Through this requirement, we hope to encourage you to think about projects with 
 
 ### Final Exam
 
--  **Passing the exam is a requirement for passing the class.**
+- **Passing the exam is a requirement for passing the class.**
 - You will have 2 hours to complete this exam - it will be in class using paper and pencil, or a format of the instructor's choosing
 - There are no retakes of the exam.
 - If you have a disability that needs an accommodation such as extended time or a different format, please take advantage of our [accommodations program](make.sc/disability-policy).
 
 ## Evaluation
+
 To pass this course you must meet the following requirements:
 
-- Complete all required tutorials 
+- Complete all required tutorials
 - Pass all projects according to the associated project rubric
 - Pass the final summative assessment >=75%
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
 ## Attendance
+
 Just like any job, attendance at Make School is required and a key component of your success. Attendance is being onsite from 9:30 to 5:30 each day, attending all scheduled sessions including classes, huddles, coaching and school meetings, and working in the study labs when not in a scheduled session. Working onsite allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
 
 Attendance requirements for scheduled sessions are:
+
 - No more than two no call no shows per term in any scheduled session.
 - No more than four excused absences per term in any scheduled session.
 
-Failure to meet these requirements will result in a PIP (Participation Improvement Plan).  Failure to improve after the PIP is cause for not being allowed to continue at Make School. 
+Failure to meet these requirements will result in a PIP (Participation Improvement Plan).  Failure to improve after the PIP is cause for not being allowed to continue at Make School.
 
 
 ## Make School Course Policies
 
 [Academic Honesty](https://make.sc/academic-honesty)<br>
 [Accommodations for Students](https://make.sc/accommodations-for-students)<br>
-[Attendance Policy](https://make.sc/attendance-policy)  
+[Attendance Policy](https://make.sc/attendance-policy)
 [Diversity and Inclusion Policy](https://make.sc/diversity-and-inclusion-policy)<br>
 [Grading System](https://make.sc/grading-system)
 <br>
