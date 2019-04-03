@@ -1,66 +1,42 @@
-# Lesson Title
+# Pseudocode for Pros
 
-## Minute-by-Minute [OPTIONAL]
+_Missed class or need to review? **View a [mind map](Resources/2-PseudocodeForPros.pdf) of today's main topics.**_
 
-| **Elapsed** | **Time**  | **Activity**              |
-| ----------- | --------- | ------------------------- |
-| 0:00        | 0:05      | Objectives                |
-| 0:05        | 0:15      | Overview                  |
-| 0:20        | 0:45      | In Class Activity I       |
-| 1:05        | 0:10      | BREAK                     |
-| 1:15        | 0:45      | In Class Activity II      |
-| TOTAL       | 2:00      |                           |
+## Why You Should Know This (2 min)
 
-## Why you should know this or industry application (optional) (5 min)
+> The most important single aspect of software development is to be clear about what you are trying to build. - **Bjarne Stroustrup**
 
-Explain why students should care to learn the material presented in this class.
+## Learning Objectives (3 min)
 
-## Learning Objectives (5 min)
-
-1. Identify and describe
-1. Define
-1. Design
-1. Implement
+1. Formally define the word _pseudocode_ and recognize it's role in solving  engineering problems.
+1. Identify and describe pseudocode's role in the _Software Development Life Cycle_.
+1. Implement proper _pseudocode_ that solves real-world problems.
 
 ## Initial Exercise (15 min)
 
-- Funny comic
-- Prime the Pump (e.g. think and jot, think pair share, etc)
-- Productivity Tip/Tool
-- Review of current event (e.g. tech news relevant to your track/topic)
-- Quiz on homework or topic(s) of past class
-- Concept Test
+TBD
 
 ## Overview/TT I (20 min)
 
-- Why learn this?
-- Industry examples of usage
-- Best practices
-- Personal anecdote
+1. Use the [mind map](Resources/2-PseudocodeForPros.pdf) to summarize the steps in building classes and routines (another word for _functions_). Additionally, go over the PPP strategy outlined in the map.
+Overview of collaborative development practices
+Pair programming
+Other kinds of development practices (XP, etc)
 
-## In Class Activity I (30 min)
+## In Class Activity I
 
-- I do, We do, You do
-- Reading & Discussion Questions in small groups
-- Draw a picture/diagram
-- Complete Challenges solo or in pair
-- Q&A about tutorials
-- Pair up and code review
-- Pair program
-- Formative assessment
-- Form into groups
-- etc (get creative :D)
+### Create / Construct / Review (30 min)
 
-## Overview/TT II (optional) (20 min)
+Find a domain (example: pokemon) that the whole class can work on and ask them to complete the following:
+Steps for Creating a Class (page 216)
+Steps for Creating a Routine (page 217)
 
-## In Class Activity II (optional) (30 min)
+## Assignment (Due Next Class)
 
-## Wrap Up (5 min)
+### Important Prep for Lab (15 min)
 
-- Continue working on your current tutorial
-- Complete reading
-- Complete challenges
+Be ready next class period with a function you wrote in your intensive project. We'll be diving deep to solving real-world problems hands-on during next class's Pseudocode Lab!
 
-## Additional Resources
+## Credits
 
-1. Links to additional readings and videos
+**Code Complete**, *Part 9 & 21*

@@ -1,22 +1,10 @@
 # Welcome to Software Construction: Key Decisions
 
-## Minute-by-Minute
-
-| **Elapsed** | **Time**  | **Activity**              |
-| ----------- | --------- | ------------------------- |
-| 0:00        | 0:05      | Objectives                |
-| 0:05        | 0:15      | Initial Exercise          |
-| 0:20        | 0:30      | Overview                  |
-| 0:50        | 0:10      | BREAK                     |
-| 1:00        | 0:30      | In Class Activity I       |
-| 1:30        | 0:30      | In Class Activity II      |
-| TOTAL       | 2:00      |                           |
-
-## Why You Should Know This (5 min)
+## Why You Should Know This (2 min)
 
 Your understanding of how to construct software **determines how good a programmer you are**.
 
-## Learning Objectives (5 min)
+## Learning Objectives (3 min)
 
 1. Identify and describe the steps in formal software construction.
 2. Define a convention and their practical uses.

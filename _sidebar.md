@@ -1,5 +1,5 @@
-- **[Syllabus](README.md)**
-- **Lessons**
+- [Syllabus](README.md)
+- Lessons
   - [Construction / Key Decisions](Lessons/Lesson1.md)
   - [Pseudocode / Collaborative Construction](Lessons/Lesson2.md)
   - [Lab: Pseudocode](Lessons/Lesson3.md)
@@ -12,5 +12,3 @@
   - [Lab: Blog Post](Lessons/Lesson10.md)
   - [Ticketing](Lessons/Lesson11.md)
   - [Code-Tuning Strategies](Lessons/Lesson12.md)
-  - Review Session
-  - Final Exam
