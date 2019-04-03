@@ -92,6 +92,10 @@ Use the [mind map](https://make-school-courses.github.io/SPD-1.4-Testing-And-Arc
 
 Be ready next class period with a function you wrote in your intensive project. We'll be diving deep to solving real-world problems hands-on during next class's Pseudocode Lab!
 
+### Add Deliverable to Course Tracker
+
+Add a link to the code you want to re-architect via pseudocode in the [Progress Tracker](https://docs.google.com/spreadsheets/d/12DDJDz73An4knCUSQMOLK0EBQD-jzM90Z1PauibzADY/edit#gid=136456159). Dani will follow up and review the code before the next class period, and will be messaging anyone who didn't complete the deliverable at 5pm today!
+
 ### Credits
 
 **Code Complete**, *Part 9 & 21*
