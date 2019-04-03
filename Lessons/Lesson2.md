@@ -56,14 +56,13 @@ I will reveal your answer after break!
 
 Revealed after break!
 
-<!--
-**These formal engineering techniques (and more) grant opportunities for fresh eyes to grace your codebase, and catching bugs and errors in your thinking that WILL surprise you.** Bugs even your tests won't catch! -->
+**These formal engineering techniques (and more) grant opportunities for fresh eyes to grace your codebase, and catching bugs and errors in your thinking that WILL surprise you.** Bugs even your tests won't catch!
 
 ### That Means...
 
 Revealed after break!
 
-<!-- **Interacting with other programmers is required**. The best programmers you know gained their skills through the collaboration, pairing, and taking swift and thoughtful action upon feedback --- including yours truly! -->
+ **Interacting with other programmers is required**. The best programmers you know gained their skills through the collaboration, pairing, and taking swift and thoughtful action upon feedback --- including yours truly!
 
 ### Key Takeaway
 
