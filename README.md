@@ -26,35 +26,34 @@ Class Sessions:  14 classes, 7 labs
 
 Students by the end of the course will be able to ...
 
-1. Compare and contrast software construction options and make informed decisions around which to pick
-1. Produce elegant pseudocode to quickly describe how to solve a problem
-1. Practice techniques to improve the quality and craftsmanship of their software
-1. Design and implement code refactors
-1. Apply debugging and testing best practices to more easily resolve bugs
+1. Compare and contrast software construction options and make informed decisions around which to pick.
+1. Produce elegant pseudocode to quickly describe how to solve a problem.
+1. Practice techniques to improve the quality and craftsmanship of their software.
+1. Design and implement code refactors.
+1. Apply debugging and testing best practices to more easily resolve bugs.
 
 
 ## Schedule
 
-**Course Dates:** Monday, April 1 – Wednesday, May 15, 2019 (7 weeks)
-
+**Course Dates:** Monday, April 1 – Wednesday, May 15, 2019 (7 weeks)<br>
 **Class Times:** Monday and Wednesday at 3:30–5:20pm (14 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Monday, April 1                         | [Construction / Key Decisions](Lessons/Lesson1.md) |
-|  2 |  Wednesday, April 3                      | [Lesson 2] |
-|  3 |  Monday, April 8                         | [Lesson 3] |
-|  4 |  Wednesday, April 10                     | [Lesson 4] |
-|  5 |  Monday, April 15                        | [Lesson 5] |
-|  6 |  Wednesday, April 17                     | [Lesson 6] |
-|  7 |  Monday, April 22                        | [Lesson 7] |
-|  8 |  Wednesday, April 24                     | [Lesson 8] |
-|  9 |  Monday, April 29                        | [Lesson 9] |
-| 10 |  Wednesday, May 1                        | [Lesson 10] |
-| 11 |  Monday, May 6                           | [Lesson 11] |
-| 12 |  Wednesday, May 8                        | [Lesson 12] |
-| 13 |  Monday, May 13                          | Final Class (presentations, etc) |
-| 14 |  Wednesday, May 15                       | Final Exams/Presentations |
+|  2 |  Wednesday, April 3                      | [Pseudocode / Collaborative Construction](Lessons/Lesson2.md) |
+|  3 |  Monday, April 8                         | [Lab: Pseudocode](Lessons/Lesson3.md) |
+|  4 |  Wednesday, April 10                     | [Software Quality Landscape](Lessons/Lesson4.md) |
+|  5 |  Monday, April 15                        | [Themes in Software Craftsmanship](Lessons/Lesson5.md) |
+|  6 |  Wednesday, April 17                     | [Lab: Refactoring](Lessons/Lesson6.md) |
+|  7 |  Monday, April 22                        | [Developer Testing](Lessons/Lesson7.md) |
+|  8 |  Wednesday, April 24                     | [Lab: Testing](Lessons/Lesson8.md) |
+|  9 |  Monday, April 29                        | [Debugging/Refactoring](Lessons/Lesson9.md) |
+| 10 |  Wednesday, May 1                        | [Lab: Blog Post](Lessons/Lesson10.md) |
+| 11 |  Monday, May 6                           | [Ticketing](Lessons/Lesson11.md) |
+| 12 |  Wednesday, May 8                        | [Code-Tuning Strategies and Techniques](Lessons/Lesson12.md) |
+| 13 |  Monday, May 13                          | Final Class: Review Session |
+| 14 |  Wednesday, May 15                       | Final Exam |
 
 ## Class Assignments
 
