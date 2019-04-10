@@ -11,7 +11,7 @@ Write down as many examples of good quality software that you can think of!
 
 ## TT / Overview
 
-Go over the [mind map](Resources/4-SoftwareQualityLandscape.pdf) for today.
+Go over the [mind map](https://github.com/Make-School-Courses/SPD-1.4-Testing-And-Architecture/blob/master/Resources/4-SoftwareQualityLandscape.pdf) for today.
 
 ### External Characteristics / Activity I (25 min)
 
