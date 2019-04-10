@@ -1,66 +1,42 @@
-# Lesson Title
-
-## Minute-by-Minute [OPTIONAL]
-
-| **Elapsed** | **Time**  | **Activity**              |
-| ----------- | --------- | ------------------------- |
-| 0:00        | 0:05      | Objectives                |
-| 0:05        | 0:15      | Overview                  |
-| 0:20        | 0:45      | In Class Activity I       |
-| 1:05        | 0:10      | BREAK                     |
-| 1:15        | 0:45      | In Class Activity II      |
-| TOTAL       | 2:00      |                           |
-
-## Why you should know this or industry application (optional) (5 min)
-
-Explain why students should care to learn the material presented in this class.
+# Software Quality Landscape
 
 ## Learning Objectives (5 min)
 
-1. Identify and describe
-1. Define
-1. Design
-1. Implement
+1. Identify and describe the characteristics that embody the qualities of great software.
+2. Define
+3. Design
+4. Implement
 
 ## Initial Exercise (15 min)
 
-- Funny comic
-- Prime the Pump (e.g. think and jot, think pair share, etc)
-- Productivity Tip/Tool
-- Review of current event (e.g. tech news relevant to your track/topic)
-- Quiz on homework or topic(s) of past class
-- Concept Test
+Write down as many examples of good quality software that you can think of!
 
-## Overview/TT I (20 min)
+## TT + Activities (75 min)
 
-- Why learn this?
-- Industry examples of usage
-- Best practices
-- Personal anecdote
+Go over the [mind map](Resources/4-SoftwareQualityLandscape.pdf) for today.
 
-## In Class Activity I (30 min)
-
-- I do, We do, You do
-- Reading & Discussion Questions in small groups
-- Draw a picture/diagram
-- Complete Challenges solo or in pair
-- Q&A about tutorials
-- Pair up and code review
-- Pair program
-- Formative assessment
-- Form into groups
-- etc (get creative :D)
-
-## Overview/TT II (optional) (20 min)
-
-## In Class Activity II (optional) (30 min)
+1. **TT: External Characteristics** (15 min)
+   1. **Activity** (10 min)
+      1. From the list you generated earlier, what external characteristics contributed to the quality of the software?
+      2. Discuss with a partner.
+2. TT: **Internal Characteristics** (15 min)
+   1. **Activity** (10 min)
+      1. From the list you generated earlier, what internal characteristics contributed to the quality of the software?
+      2. Discuss with a partner.
+3. **TT: Improving Software Quality** (15 min)
+   1. **Activity** (10 min)
+      1. How could the software in your list be improved? What measures would you take?
+      2. Discuss with a partner.
 
 ## Wrap Up (5 min)
 
-- Continue working on your current tutorial
-- Complete reading
-- Complete challenges
+### Announcements
+
+**Homework Assignments Coming Soon**:
+
+  - Reflected Best Self Exercise
+  - Software Craftsmanship Blog Post
 
 ## Additional Resources
 
-1. Links to additional readings and videos
+1. Code Complete, Chapter 20
