@@ -1,4 +1,4 @@
-# Lesson Title
+# Lesson Title ([video of lecture](https://drive.google.com/file/d/1z9KLW7IR6KnXKK58Gf8DV6VQB8l0Rj8A/view?usp=sharing))
 
 ## Minute-by-Minute [OPTIONAL]
 
