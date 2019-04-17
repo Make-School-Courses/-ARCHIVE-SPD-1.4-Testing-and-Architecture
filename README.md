@@ -56,7 +56,23 @@ Students by the end of the course will be able to ...
 
 ## Class Assignments
 
-- Coming soon!
+**Pseudocode**
+
+- Pick a function to write psuedocode for
+- Psuedocode for that chosen function
+
+**Refactoring**
+
+- Written plan for how you're going to implement your refactor
+- Link to the commit containing your Refactored code
+- Score on the refactor based on the refactor rubric
+- Name of the person(s) who graded your refactor
+- Link to the commit containing the updates you made to your refactor based on feedback from the rubric
+
+**Testing**
+
+- link to tests written for your chosen project
+
 
 ### Project Policy
 
