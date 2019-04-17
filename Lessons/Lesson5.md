@@ -1,4 +1,4 @@
-# Themes in Software Craftsmanship ([video of lecture](https://drive.google.com/file/d/1z9KLW7IR6KnXKK58Gf8DV6VQB8l0Rj8A/view?usp=sharing))
+# Themes in Software Craftsmanship ([video of lecture](https://drive.google.com/file/d/1z9KLW7IR6KnXKK58Gf8DV6VQB8l0Rj8A/view?usp=sharing)) + ([slides](https://docs.google.com/presentation/d/1ERErlV1z4AhkvWi6vvFYaaZ3YKAzS2WphQDRR0dQgR0/edit#slide=id.g56528dfe23_4_29))
 
 ## Why you should know this or industry application (5 min)
 
