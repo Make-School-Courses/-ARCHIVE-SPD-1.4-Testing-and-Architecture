@@ -1,66 +1,25 @@
-# Lesson Title
+# Refactor Lab [Slides](https://docs.google.com/presentation/d/1m0kThdvtIBEisF11LBt0NaYoz6_Nvqjk-m0vm-PGr3s/edit?usp=sharing)
 
-## Minute-by-Minute [OPTIONAL]
+## Worksheet
 
-| **Elapsed** | **Time**  | **Activity**              |
-| ----------- | --------- | ------------------------- |
-| 0:00        | 0:05      | Objectives                |
-| 0:05        | 0:15      | Overview                  |
-| 0:20        | 0:45      | In Class Activity I       |
-| 1:05        | 0:10      | BREAK                     |
-| 1:15        | 0:45      | In Class Activity II      |
-| TOTAL       | 2:00      |                           |
+Fill out this [worksheet](https://docs.google.com/document/d/1tuuphKrVfIUQWQsDVb75AgF2eFm4i-2udnEXqPtHUN0/edit) on your own. The worksheet covers topics from Software Quality Landscape and Themes in Software Craftsmanship.
 
-## Why you should know this or industry application (optional) (5 min)
+When you're done, discuss your answers with a partner, and then review the slides to discuss the answers in depth.
 
-Explain why students should care to learn the material presented in this class.
+## Calculator Refactor
 
-## Learning Objectives (5 min)
+Often in an interview, as well as on the job, you'll be asked to refactor existing code. We'll practice this by looking at this [really bad python calculator code](https://github.com/sobolevn/python-code-disasters/blob/master/python/my_first_calculator.py).
 
-1. Identify and describe
-1. Define
-1. Design
-1. Implement
+1. Review the code
+1. Think about how you would refactor it, write a high-level plan
+1. Write out pseudocode for your refactor
 
-## Initial Exercise (15 min)
+## Project Refactor
 
-- Funny comic
-- Prime the Pump (e.g. think and jot, think pair share, etc)
-- Productivity Tip/Tool
-- Review of current event (e.g. tech news relevant to your track/topic)
-- Quiz on homework or topic(s) of past class
-- Concept Test
+### Presentation
 
-## Overview/TT I (20 min)
+In groups of 3, each person will present their refactor from  to their group, and the other group members will grade them using the [refactor rubric](https://docs.google.com/document/d/1z3wb-LJK4rKVdV97uUQtweBDC56TWPg7GW3CH6nWA4I/edit).
 
-- Why learn this?
-- Industry examples of usage
-- Best practices
-- Personal anecdote
+## Integrate Feedback
 
-## In Class Activity I (30 min)
-
-- I do, We do, You do
-- Reading & Discussion Questions in small groups
-- Draw a picture/diagram
-- Complete Challenges solo or in pair
-- Q&A about tutorials
-- Pair up and code review
-- Pair program
-- Formative assessment
-- Form into groups
-- etc (get creative :D)
-
-## Overview/TT II (optional) (20 min)
-
-## In Class Activity II (optional) (30 min)
-
-## Wrap Up (5 min)
-
-- Continue working on your current tutorial
-- Complete reading
-- Complete challenges
-
-## Additional Resources
-
-1. Links to additional readings and videos
+Each student should review the feedback from their peers and then incorporate their feedback into the project. Once you've commited your feedback, Put a GitHub commit link to it in [Column L of the progress tracker](http://make.sc/trackspd1.4)
