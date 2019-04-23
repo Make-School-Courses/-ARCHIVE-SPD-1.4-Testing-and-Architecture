@@ -1,66 +1,42 @@
-# Lesson Title
+# Refactor Lab [Slides](https://docs.google.com/presentation/d/12y0AEspuBbNAl8MNZKmCf1HtNrxcSrSzPzbh-Ci8xso/edit?usp=sharing)
 
-## Minute-by-Minute [OPTIONAL]
+## Learning Outcomes
+By the end of this class, you should be able to…
 
-| **Elapsed** | **Time**  | **Activity**              |
-| ----------- | --------- | ------------------------- |
-| 0:00        | 0:05      | Objectives                |
-| 0:05        | 0:15      | Overview                  |
-| 0:20        | 0:45      | In Class Activity I       |
-| 1:05        | 0:10      | BREAK                     |
-| 1:15        | 0:45      | In Class Activity II      |
-| TOTAL       | 2:00      |                           |
+1. Practice walking through a function in order to debug it
+1. Write tests for your own projects to improve their resilience
+1. Practice basic QA by trying to break projects
 
-## Why you should know this or industry application (optional) (5 min)
+## Quiz
 
-Explain why students should care to learn the material presented in this class.
+Review material from the Developer Testing class by taking the [quiz](http://make.sc/spd1.4-testing-quiz). We'll then go over the answers in class as a group
 
-## Learning Objectives (5 min)
+## Random Debug
 
-1. Identify and describe
-1. Define
-1. Design
-1. Implement
+Look over [this snippet](https://docs.google.com/presentation/d/12y0AEspuBbNAl8MNZKmCf1HtNrxcSrSzPzbh-Ci8xso/edit#slide=id.g568fd68b79_0_0) of Python 3 code. How many things can you find wrong with it?
 
-## Initial Exercise (15 min)
+Practice with a partner whiteboarding your thought process and explaining your reasoning. We'll later go over the solution as a class.
 
-- Funny comic
-- Prime the Pump (e.g. think and jot, think pair share, etc)
-- Productivity Tip/Tool
-- Review of current event (e.g. tech news relevant to your track/topic)
-- Quiz on homework or topic(s) of past class
-- Concept Test
+[Solution file](https://drive.google.com/open?id=11i0GXx6Bi_7HtUfsEd1_sXyyZDrdLVf8) for checking your answers. Can also be seen in the slides
 
-## Overview/TT I (20 min)
+## Test Brainstorm
 
-- Why learn this?
-- Industry examples of usage
-- Best practices
-- Personal anecdote
+Get in pairs, and then you each have 10 minutes each to do the following:
 
-## In Class Activity I (30 min)
+1. Present your project, as well as a high-level overview of the codebase (i.e. a technical review)
+1. Discuss as a pair what tests should be added to cover the following cases:
+    1. Good Input
+    1. Bad Input
+    1. Expected results (success cases)
+    1. Unexpected results (error cases)
+    1. Edge Cases
+1. Use any extra time to write tests for your project. Remember you’re trying to reinforce it before your peers try to break it!
 
-- I do, We do, You do
-- Reading & Discussion Questions in small groups
-- Draw a picture/diagram
-- Complete Challenges solo or in pair
-- Q&A about tutorials
-- Pair up and code review
-- Pair program
-- Formative assessment
-- Form into groups
-- etc (get creative :D)
+## Testing Games
 
-## Overview/TT II (optional) (20 min)
-
-## In Class Activity II (optional) (30 min)
-
-## Wrap Up (5 min)
-
-- Continue working on your current tutorial
-- Complete reading
-- Complete challenges
-
-## Additional Resources
-
-1. Links to additional readings and videos
+1. Make sure your live project from Column M in the tracker is easily accessible to anyone to test
+1. For each project, spend 5-10 minutes trying to break it!
+    1. Test the handling of good/bad input
+    1. Try to find/exploit edge cases
+    1. Try to cause errors!
+1. Provide feedback, then find a new partner! Aim for 4-5!
