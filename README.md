@@ -56,6 +56,18 @@ Students by the end of the course will be able to ...
 
 ## Class Assignments
 
+There will be **three** primary assignments for this course in addition to the lab assignments. These primary assignments are:
+
+- Refactor an old project
+- Blog post on the refactor
+- Reflected Best Self write up
+
+Please view **descriptions and due dates** on the assignments [here](https://docs.google.com/document/d/17UXI7OUNNSqgSjRmWpEBMTybAmEjcqwW1KI-yP_-wCU/edit?usp=sharing)
+
+### Lab Assignments
+
+These are to be finished by the **end of the course**
+
 **Pseudocode**
 
 - Pick a function to write psuedocode for
