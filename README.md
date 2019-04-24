@@ -68,12 +68,12 @@ Please view **descriptions and due dates** on the assignments [here](https://doc
 
 These are to be finished by the **end of the course**
 
-**Pseudocode**
+**Pseudocode** ([Tracker columns](https://docs.google.com/spreadsheets/d/12DDJDz73An4knCUSQMOLK0EBQD-jzM90Z1PauibzADY/edit#gid=136456159) F, G)
 
 - Pick a function to write psuedocode for
 - Psuedocode for that chosen function
 
-**Refactoring**
+**Refactoring** ([Tracker columns](https://docs.google.com/spreadsheets/d/12DDJDz73An4knCUSQMOLK0EBQD-jzM90Z1PauibzADY/edit#gid=136456159) H, I, J)
 
 - Written plan for how you're going to implement your refactor
 - Link to the commit containing your Refactored code
@@ -81,7 +81,7 @@ These are to be finished by the **end of the course**
 - Name of the person(s) who graded your refactor
 - Link to the commit containing the updates you made to your refactor based on feedback from the rubric
 
-**Testing**
+**Testing** ([Tracker column](https://docs.google.com/spreadsheets/d/12DDJDz73An4knCUSQMOLK0EBQD-jzM90Z1PauibzADY/edit#gid=136456159) M)
 
 - link to tests written for your chosen project
 
