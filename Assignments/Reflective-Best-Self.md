@@ -12,40 +12,19 @@ Use the feedback from respondents to identify common themes or areas of strength
 
 This analysis step can be very insightful. It will help you develop a larger picture of your capabilities and an opportunity to evaluate or reevaluate your skills.
 
-Example Table
-Common Strength
-Example Given by whom
-Take away
-Work Ethic
 
 
+***Example Table***
 
-
-Kind
-
-
-
-
-Supportive
-
-
-
-
-Debugger champ
-
-
-
-
-Passionate
-
-
-
-
-Clear commenting
-
-
-
-
+| Common Strength        | Example Given by whom           | Take away  |
+| ------------- |:-------------:| -----:|
+|   Work Ethic  | Julie remembered "You woke up at 6am every morning to study. I've also noticed that you study before and after class to best learn the material"      |  I effectively make time to learn and grow   |
+| Kind |        |     |
+|  Supportive   |        |     |
+|   Debugger champ  | Jessica said, "I had a bug in my python homework that I spent 1 hour to solve and couldn't figure it out. You sat wiht me and we spent a whole other hour and a half to figure it out. I wanted to go to bed but you insisted that we figure out the issue. We finally found it - after doing a bunch of searching through StackOverflow. I was super grateful for your help."        |  I persist and don't give up easily   |
+|  Passionate   |        |     |
+|  Clear commenting   |        |     |
+|  etc ...   |        |     |
 
 
 **Step 3: Compose Your Best-Self Portrait**
