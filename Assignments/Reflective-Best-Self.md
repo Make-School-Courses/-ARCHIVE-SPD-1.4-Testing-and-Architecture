@@ -1,6 +1,7 @@
 # Reflected Best Self
-This activity is adapted off of resources from University of Michigan and 
-Due May 8th
+This activity is adapted off of resources from University of Michigan 
+
+**Due Date:** May 8th
 
 **Step 1: Identify Respondents and Ask for Feedback About Your STRENGTHS**
 Only solicit feedback from those who know you best -- classmates, family, friends, and teachers. This can be done effectively using electronic communication, whereby results can be easily copied and pasted into a table for analysis. Ask these individuals to provide information about your strengths, only, including specific examples of ways in which you used these strengths that were meaningful to them. You may be uncomfortable asking exclusively for positive feedback, but remember that the exercise will help you improve your performance. 
