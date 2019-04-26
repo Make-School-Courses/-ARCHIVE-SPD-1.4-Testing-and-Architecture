@@ -1,2 +1,1 @@
-## Project Description
-## Project requirements
+## Assignments are listed in the class README.md
