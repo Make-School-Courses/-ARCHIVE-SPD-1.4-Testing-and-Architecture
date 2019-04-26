@@ -60,7 +60,7 @@ There will be **three** primary assignments for this course in addition to the l
 
 - Refactor an old project
 - Blog post on the refactor
-- Reflected Best Self write up
+- [Reflected Best Self write up](https://github.com/Make-School-Courses/SPD-1.4-Testing-And-Architecture/blob/master/Assignments/Reflective-Best-Self.md)
 
 Please view **descriptions and due dates** on the assignments [here](https://docs.google.com/document/d/17UXI7OUNNSqgSjRmWpEBMTybAmEjcqwW1KI-yP_-wCU/edit?usp=sharing)
 
