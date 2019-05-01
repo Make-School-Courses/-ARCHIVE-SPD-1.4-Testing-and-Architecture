@@ -47,8 +47,8 @@ Students by the end of the course will be able to ...
 |  6 |  Wednesday, April 17                     | [Lab: Refactoring](Lessons/Lesson6.md) |
 |  7 |  Monday, April 22                        | [Developer Testing](Lessons/Lesson7.md) |
 |  8 |  Wednesday, April 24                     | [Lab: Testing](Lessons/Lesson8.md) |
-|  9 |  Monday, April 29                        | [Debugging/Refactoring](Lessons/Lesson9.md) |
-| 10 |  Wednesday, May 1                        | [Lab: Blog Post](Lessons/Lesson10.md) |
+|  9 |  Monday, April 29                        | [Lab: Blog Post](Lessons/Lesson9.md) |
+| 10 |  Wednesday, May 1                        | [Debugging/Refactoring](Lessons/Lesson10.md) |
 | 11 |  Monday, May 6                           | [Ticketing](Lessons/Lesson11.md) |
 | 12 |  Wednesday, May 8                        | [Code-Tuning Strategies](Lessons/Lesson12.md) |
 | 13 |  Monday, May 13                          | Final Class: Review Session |
