@@ -1,4 +1,4 @@
-# Lesson Title
+# Ticket Writing ([Slides](https://docs.google.com/presentation/d/1ELpW7E9ccpW3rDtMEEaq57dvix00ca0GB2dxhrleJOY/edit#slide=id.p))
 
 ## Minute-by-Minute [OPTIONAL]
 
@@ -17,19 +17,15 @@ Explain why students should care to learn the material presented in this class.
 
 ## Learning Objectives (5 min)
 
-1. Identify and describe
-1. Define
-1. Design
-1. Implement
+1. Explain the value in breaking up a single feature into multiple tickets
+1. Evaluate the contents of a ticket to determine if it has sufficient, actionable information
+1. Create a feature ticket with basic components such as user stories, requirements, and business values
+1. Create a bug ticket with basic components such as diagnostic information, repro steps, and current/expected behavior
+1. Apply the ROAM technique to risks in feature tickets
 
-## Initial Exercise (15 min)
+## Telephone activity (15 min)
+(see slides) Students are asked to draw a picture from a spec - then write a spec from that feature, then draw picture, then spec, etc. The activity demonstrates how much miscommunication happens when you don't have clearly defined tickets and specs
 
-- Funny comic
-- Prime the Pump (e.g. think and jot, think pair share, etc)
-- Productivity Tip/Tool
-- Review of current event (e.g. tech news relevant to your track/topic)
-- Quiz on homework or topic(s) of past class
-- Concept Test
 
 ## Overview/TT I (20 min)
 
