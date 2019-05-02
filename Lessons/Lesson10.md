@@ -1,4 +1,4 @@
-# Lesson Title
+# Lesson Title [Class Slides](https://docs.google.com/presentation/d/1i7lBoMglqXVfqv0meHhj0aHfLOFPTXPqARAl_YGFEgg/edit)
 
 ## Minute-by-Minute [OPTIONAL]
 
