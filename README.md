@@ -51,7 +51,7 @@ Students by the end of the course will be able to ...
 | 10 |  Wednesday, May 1                        | [Debugging/Refactoring](Lessons/Lesson10.md) |
 | 11 |  Monday, May 6                           | [Ticketing](Lessons/Lesson11.md) |
 | 12 |  Wednesday, May 8                        | [Code-Tuning Strategies](Lessons/Lesson12.md) |
-| 13 |  Monday, May 13                          | Final Class: Review Session |
+| 13 |  Monday, May 13                          | [Final Class: Review Session](Lessons/Review.md) |
 | 14 |  Wednesday, May 15                       | Final Exam |
 
 ## Class Assignments
