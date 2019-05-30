@@ -2,7 +2,7 @@
 
 ## Course Description
 
-"This course focuses on advanced topics in testing and code craftsmanship. Students apply these concepts to existing portfolio projects, adding a further layer of sophistication. Topics covered include: types of testing, automated testing, design patterns, open source coding, and navigating massive codebases. The course also covers guiding principles in software development that help professional developers make decisions on what language, frameworks, and construction practices to use while building projects. By the end of the course, students will have refactored projects to have better testing and architecture, and built an additional solo project incorporating course principles.
+This course focuses on advanced topics in testing and code craftsmanship. Students apply these concepts to existing portfolio projects, adding a further layer of sophistication. Topics covered include: types of testing, automated testing, design patterns, open source coding, and navigating massive codebases. The course also covers guiding principles in software development that help professional developers make decisions on what language, frameworks, and construction practices to use while building projects. By the end of the course, students will have refactored projects to have better testing and architecture, and built an additional solo project incorporating course principles.
 
 ## Prerequisites
 
