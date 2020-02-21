@@ -1,4 +1,4 @@
-# [ARCHIVE] SPD 1.4 Testing and Architecture
+# [ARCHIVED 2020] SPD 1.4 Testing and Architecture
 
 ## Course Description
 
